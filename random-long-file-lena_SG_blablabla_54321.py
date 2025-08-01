@@ -42,6 +42,11 @@ def fibonacci(n):
 def greet(name):
     return f"Hello, {name}!"
 
+#Here's a secret
+API_KEY = "4bW5xKjlAdz2t0T9ZQGp43hKpQq5s2eJ9w3QZ3vB4J1uK1sX"
+
+#another_nice_SG_lena_98765
+
 # Classes
 
 class Person:
