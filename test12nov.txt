@@ -1,2 +1,2 @@
-aws_access_key_id = AKIAYWPV4Q6KL25LRN7Q
-aws_secret_access_key = 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
+aws_access_key_id = AKIAYWPV4Q6KN272ZZZE
+aws_secret_access_key = 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
